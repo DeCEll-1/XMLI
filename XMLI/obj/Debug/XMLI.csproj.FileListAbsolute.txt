@@ -1,0 +1,7 @@
+D:\Github\XMLI\XMLI\bin\Debug\XMLI.exe.config
+D:\Github\XMLI\XMLI\bin\Debug\XMLI.exe
+D:\Github\XMLI\XMLI\bin\Debug\XMLI.pdb
+D:\Github\XMLI\XMLI\obj\Debug\XMLI.csproj.AssemblyReference.cache
+D:\Github\XMLI\XMLI\obj\Debug\XMLI.csproj.CoreCompileInputs.cache
+D:\Github\XMLI\XMLI\obj\Debug\XMLI.exe
+D:\Github\XMLI\XMLI\obj\Debug\XMLI.pdb

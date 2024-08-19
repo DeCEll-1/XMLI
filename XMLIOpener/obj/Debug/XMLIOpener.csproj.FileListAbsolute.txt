@@ -1,0 +1,14 @@
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLIOpener.exe.config
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLIOpener.exe
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLIOpener.pdb
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.csproj.AssemblyReference.cache
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.Properties.Resources.resources
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.csproj.GenerateResource.cache
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.csproj.CoreCompileInputs.cache
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.exe
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.pdb
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLI.exe
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLI.pdb
+D:\Github\XMLI\XMLIOpener\bin\Debug\XMLI.exe.config
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.Main.resources
+D:\Github\XMLI\XMLIOpener\obj\Debug\XMLIOpener.csproj.Up2Date
